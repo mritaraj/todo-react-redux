@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-container {
+  display: flex;
+  /* justify-content: space-between; */
+  margin-left: 50px;
+}
+.list-container > button {
+  margin-left: 50px;
+  margin-top: 15px;
+  height: 30px;
+}
